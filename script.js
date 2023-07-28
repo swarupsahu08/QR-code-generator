@@ -23,7 +23,7 @@ downloadBtn.addEventListener('click',()=>{
         let imgAttri=img.getAttribute('src');
         downloadBtn.setAttribute("href",imgAttri);
     } else {
-        downloadBtn.setAttribute("href",`${document.querySelector('canvas').toDataURL()}`);
+        downloadBtn.setAttribute("href",`${document.querySelector('.q-body img').toDataURL()}`);
     }
 });
 
