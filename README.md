@@ -5,4 +5,4 @@ The cdn link with the script that you have to use to link the library<br>
 Now run the file by extracting the zip file from Github.<br>
 <br>
 
-Hope you would like my work,then you can contribute to this project and feel free to make improvements.I would love to here from you and I would like to improve the project.
+Hope you would like my work,then you can contribute to this project and feel free to make improvements.I would love to hear from you and I would like to improve the project.
